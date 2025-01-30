@@ -1,0 +1,24 @@
+.padding{
+   border: 20px solid red;
+   margin: 20px;
+   padding: 20px;
+   background: #9fde0a;
+   color: #90071e;
+   
+}
+
+.padding-2{
+    border: 20px solid rgb(37, 24, 220);
+    margin: 20px;
+    padding: 20px;
+    background: #90071e;
+    color: #530eb2;
+    
+ }
+ .padding-3{
+    border: 20px solid rgb(53, 226, 23);
+    margin: 20px;
+    padding: 20px;
+    background: #530eb2;
+    color: blanchedalmond;
+ }
